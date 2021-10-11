@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="click_to_open_youtube">Service Is Running</string>
+</resources>
